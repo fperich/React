@@ -1,0 +1,11 @@
+{
+  "name": "countryselector",
+  "version": "1.0.0",
+  "description": "Country selector",
+  "main": "index.html",
+  "keywords": [
+    "countries"
+  ],
+  "author": "Fabian Perich Lara",
+  "license": "MIT"
+}
