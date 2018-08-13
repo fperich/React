@@ -1,4 +1,7 @@
 # React
-My react samples
+My react components samples
 
-1. <a href="https://github.com/fperich/React/tree/master/countryselector">Country Selector</a>
+## Country Selector
+
+Get countries from json file and shows a countries selector.
+
