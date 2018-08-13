@@ -35,7 +35,7 @@ class CountrySelector extends Component {
 		})
 
 		return (
-			<div className="col-md-4">
+			<div className="CountrySelector">
 				<select id="countries" className="form-control" type="select" value={this.state.selected} onChange={this.selectCountry}>
 					<option value="">Select country</option>
 					{options}
