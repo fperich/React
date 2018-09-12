@@ -2,6 +2,8 @@
 
 [React Initial App](https://github.com/fperich/react-initial-app)
 
+[React Initial App with SSR](https://github.com/fperich/react-initial-ssr-app)
+
 ## Components
 My React components samples
 
